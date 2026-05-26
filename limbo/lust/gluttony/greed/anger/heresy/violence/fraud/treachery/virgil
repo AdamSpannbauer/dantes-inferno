@@ -21,7 +21,10 @@ of hell it's like a double negative type thing...?
 
 Anywho... to finish up.  Delete all contents of the `icy-lake`
 and the `icy-lake` itself.  Of course, feel free to explore 
-before committing this treachery.
+before committing this treachery. 
+
+DANGER: Before deleting anything, run `pwd`
+and make sure you are in the `treachery` directory.
 
 Great work! Hopefully you'll remember some bash commands
 and our friendship after this journey.
@@ -30,4 +33,3 @@ Your pal,
 Virgil
 
 <3 xoxo
-
