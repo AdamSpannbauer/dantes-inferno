@@ -21,12 +21,13 @@ To really practice, use ***<u>only</u>*** your bash command line to navigate the
 3. Type `cat virgil` to get started
 4. `virgil` will be available in each level of hell; use `cat` to get instructions on what to do before moving deeper into bash hell
 5. Use google/chatgpt/etc to help discover what commands to run.  This activity doesn't tell you how to do all the things; it just brings up common tasks to know how to do and is an environment to practice.
+6. If you get lost or delete the wrong thing, re-download or re-clone the repo to reset the activity.
 
 ----
 
 ## Levels of hell you'll encounter
 
-A list of the of the levels and a description of the bash task practiced there
+A list of the levels and a description of the bash task practiced there
 
 1. **Limbo** - navigation in/out of directories & listing directory contents
 2. **Lust** - listing hidden files

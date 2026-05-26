@@ -14,4 +14,6 @@ Canonically, our guide Virgil, talks us past this beast,
 but we'll take the easy way out and just "remove" him from our path.  
 
 Use a command to delete the minotaur file. Once you've evaporated
-our foe, navigate to the eigth circle of hell: `fraud`.
+our foe, navigate to the eighth circle of hell: `fraud`.
+
+DANGER: Before deleting anything, run `pwd` and `ls` to make sure you are in the `violence` directory and can see your target.
