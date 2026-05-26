@@ -1,0 +1,44 @@
+          ___
+         / ,_\    _____
+        /  _)/   /o    \
+        |  \    /_ `    \__________
+        |   \____ >__,_  \         |
+        |                  ____,   |
+        \,___________     |    \   |
+                   \      (     \  |__
+                    \    \ \     \   _)_
+                     \/     \     \____/
+
+Before we leave, Minos has asked for one last favor.
+
+He keeps an intake log of souls waiting to be assigned, but the records
+look a little suspicious. Use your command line to inspect
+`minos-intake.csv`.
+
+Start simple:
+- Use a command to view the first few lines of the file. Notice the
+  column headers, how many columns there are, and why CSV stands for
+  comma-separated values.
+- Use a command to view the last few lines of the file. It looks like
+  Sinon ran off before Minos could assign him a circle. Notice how that
+  missing value is recorded.
+- Use a command to count how many lines are in the file. Remember that
+  one line is the header, so the number of records is one less than the
+  number of lines.
+- Use a command to find rows with missing values. There is a command
+  called `grep`, short for "global regular expression print." This sounds
+  like dark magic, and honestly, that is not far off: give it a pattern,
+  and it prints the matching lines. You have seen what one missing value
+  looks like; how could you search for that pattern? Why might this trick
+  only find missing values in the middle column?
+
+Optional stretch:
+Some souls may appear more than once. If you want an extra challenge,
+look into how `cut`, `sort`, and `uniq` can be combined to investigate
+duplicate soul names.
+
+This stretch is not required to finish the journey. It is here because
+data engineers often use small command line tools to inspect data
+before writing code.
+
+Now, finally, we may leave.

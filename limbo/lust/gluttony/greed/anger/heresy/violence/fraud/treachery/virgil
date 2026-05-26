@@ -26,6 +26,9 @@ before committing this treachery.
 DANGER: Before deleting anything, run `pwd`
 and make sure you are in the `treachery` directory.
 
+If you want one last optional challenge before leaving, navigate into
+`minos-intake` and use `cat virgil`.
+
 Great work! Hopefully you'll remember some bash commands
 and our friendship after this journey.
 
